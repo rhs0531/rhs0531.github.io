@@ -1,6 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  background:gray ;
+  /* height: 513px; */
+}
 
 .container {
-  background:gray ;
+  /* background:gray ; */
   height: 513px;
   /* padding: 40px; */
   /* margin: 0; */
@@ -9,10 +15,10 @@
 
 .box {
   /* width: 675px; */
-  height: 121px;
   /* margin:0 0 20px; */
   /* margin-left: auto;
   margin-right: auto; */
+  height: 121px;
   box-sizing:border-box ;
   margin-left: 40px;
   margin-right: 40px;
@@ -28,7 +34,6 @@
   padding-top: 50px;
   margin-bottom: 24px;
   margin-top: 34px;
- 
   /* padding-bottom: 50px; */
 }
 
